@@ -12,3 +12,14 @@ knitr::opts_chunk$set(echo = TRUE)
 #Course policies
 
 #Course schedule
+
+Unit 1: Remixing & repurposing
+
+* **January 17:** Read Walter's (2013) essay [Sparks will fly](https://aeon.co/essays/consumer-culture-is-dead-long-live-creators) and identify what are the main issues he addresses in the text. How do these relate to the themes of this course? In class on Friday, we'll talk about these ideas and reflect on what creator culture might look like.  
+* **January 22:** Read the first chapter of Levy's book [Hackers: Heroes of the computer revolution](http://www.gutenberg.org/ebooks/729). 
+* **January 24:** Read the second chapter of Levy's book [Hackers: Heroes of the computer revolution](http://www.gutenberg.org/ebooks/729). Today we'll work on defining the "hacker ethic" and exploring how this could apply to ideas like writing and research.  
+* **January 29:** This week, we're going to switch gears a bit (temporarily) and talk about writing specifically.  For this class, read Straub's (1999) chapter [Responding - Really Responding - to Other Students' Writing]()
+
+
+
+

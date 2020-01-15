@@ -7,12 +7,22 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-#Google Drive for course
+##Course management and information
+* [Google Drive for write.hack](https://drive.google.com/)
+* [Sakai](https://sakai.wfu.edu/) (log in to access the WRI111 course shell)
 
-#Sakai site for course
 
-#Digital Archives at WFU
+##Digital Archives at WFU and beyond
+* [Main page for digital archives](https://zsr.wfu.edu/special/collections/digital/)
+* [Popular collections at ZSR](https://zsr.wfu.edu/special/collections/digital/popular/)
+* [Photograph collection](https://wakespace.lib.wfu.edu/handle/10339/82145)
+* [WFU Original Campus Collection](https://wakespace.lib.wfu.edu/handle/10339/89141)
+* [The Internet Archive](https://archive.org/)
 
-#Special Collections
+##ZSR Resources
+* [Special Collections & Archives](https://zsr.wfu.edu/special/)
+* [Guide to writing a paper in APA](https://guides.zsr.wfu.edu/apaguide)
 
-#WakerSpace
+##Maker spaces
+* [WakerSpace (on campus)](https://wakerspace.wfu.edu/)
+* [Mixxer (nonprofit downtown)](https://wsmixxer.org/)

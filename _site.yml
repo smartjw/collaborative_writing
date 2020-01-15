@@ -1,0 +1,29 @@
+name: "write.hack: collaborative writing"
+output_dir: "docs"
+navbar:
+  title: "write.hack: collaborative writing"
+  right:
+  - text: "Home"
+    icon: fa-home
+    href: index.html
+  - text: "Information"
+    icon: fa-compass
+    href: information.html
+  - text: "Resources"
+    icon: fa-toolbox
+    href: resources.html
+  - text: "Connections"
+    icon: fa-project-diagram
+    href: connections.html
+output:
+  html_document:
+    theme: journal
+    highlight: textmate
+    css: css/style.css
+    df_print: paged
+    toc: true
+    toc_float: yes
+    bibliography: library.bib
+    biblio-style: apalike
+    include:
+      after_body: footer.html

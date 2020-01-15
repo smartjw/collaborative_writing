@@ -1,0 +1,18 @@
+---
+title: "connections"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#Google Drive for course
+
+#Sakai site for course
+
+#Digital Archives at WFU
+
+#Special Collections
+
+#WakerSpace

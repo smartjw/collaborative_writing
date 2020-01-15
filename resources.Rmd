@@ -6,6 +6,11 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+#Assignments
+
+Major assignments (including prompts, due dates, and formatting guidelines) will be listed here for each unit.  
 
 #Course Readings
 
+Current course readings can be found linke on the [information page](https://github.com/smartjw/collaborative_writing/blob/master/docs/information.html).  
+Archived readings or other readings mentioned in class will be linked to here.  

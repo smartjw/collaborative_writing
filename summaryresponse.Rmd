@@ -1,0 +1,31 @@
+---
+title: "Summary & Response"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##Overview of the project 
+
+For the first writing project of the course, you will write a brief (three pages or longer) essay that includes a summary and response to the **hacker ethic** proposed in Levy's (1984) book *Hackers: Heroes of the Computer Revolution*.  
+
+##Formatting
+
+The paper must adhere to APA style guidelines and should include in-text citations and references where appropriate (make sure to cite Levy in-text and include the text on your reference page).  Make sure to refer to the original author(s) and the title of the article in the beginning of your summary. 
+
+##Content and organization
+
+The first portion of your essay should be a summary that details the main ideas and key supporting details of the original text. 
+The second portion of the essay should be a personal response that reflects on the original text.  Your response should include a thesis statement that addresses one of three types of responses:
+
+1.	How your personal experience(s) relate to the original text.
+
+2.	How the ideas from the text can be applied to a comparable situation.
+
+3.	Whether you agree or disagree with the text and why.  
+
+##Steps to the project
+
+Share your draft with your writing group by Friday January 31st.  

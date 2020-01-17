@@ -12,13 +12,36 @@ knitr::opts_chunk$set(echo = TRUE)
 
 #Unit 1: Rephrase and respond			
 
-* **January 17:** Read Lake's (2013) essay [Sparks will fly](https://aeon.co/essays/consumer-culture-is-dead-long-live-creators) and identify what are the main issues he addresses in the text. How do these relate to the themes of this course? In class on Friday, we'll talk about these ideas and reflect on what creator culture might look like.  
-* **January 22:** Read the first chapter of Levy's book [Hackers: Heroes of the computer revolution](http://www.gutenberg.org/ebooks/729). We'll continue working on our summary and response work and discuss how writing groups work.
-* **January 24:** Read the second chapter of Levy's book [Hackers: Heroes of the computer revolution](http://www.gutenberg.org/ebooks/729). Today we'll work on defining the "hacker ethic" and exploring how this could apply to ideas like writing and research.Today we'll be talking about writing a summary of a text and responding it to it.  Specifically, you'll be asked to write a [summary and response](https://smartjw.github.io/collaborative_writing/summaryresponse.html) to the excerpt we read from Levy's book.  
-* **January 29:** This week, we're going to switch gears a bit (temporarily) and talk about writing specifically. 
-* **January 31**  For this class, read Straub's (1999) chapter [Responding - Really Responding - to Other Students' Writing](https://github.com/smartjw/collaborative_writing/blob/master/docs/straub_responding.pdf).   
+The writing project for this unit is Project 1: Summary & Response.  Read about the project [here](https://smartjw.github.io/collaborative_writing/summaryresponse.html).  
+
+###January 15: 
+
+Today we'll discuss essential first day information (introductions, syllabus, grading, etc.).  Slides [here](https://drive.google.com/a/wfu.edu/file/d/1qpO8FcCvipcwdgLsxCa9IT3wuFziUsHq/view?usp=sharing).
+
+###January 17: 
+
+Read Lake's (2013) essay [Sparks will fly](https://aeon.co/essays/consumer-culture-is-dead-long-live-creators) and identify what are the main issues he addresses in the text. How do these relate to the themes of this course? In class on Friday, we'll talk about these ideas and reflect on what creator culture might look like.  Slides [here](https://drive.google.com/a/wfu.edu/file/d/1M_aSPPVRVLMOTUDyxL_f0mkv8_M2b_Wx/view?usp=sharing).
+
+###January 22: 
+
+Read the first chapter of Levy's book [Hackers: Heroes of the computer revolution](http://www.gutenberg.org/ebooks/729). We'll continue working on our summary and response work and discuss how writing groups work.
+
+###January 24: 
+
+Read the second chapter of Levy's book [Hackers: Heroes of the computer revolution](http://www.gutenberg.org/ebooks/729). Today we'll work on defining the "hacker ethic" and exploring how this could apply to ideas like writing and research.Today we'll be talking about writing a summary of a text and responding it to it.  Specifically, you'll be asked to write a [summary and response](https://smartjw.github.io/collaborative_writing/summaryresponse.html) to the excerpt we read from Levy's book.  
+*Note:* if you find the format of the Gutenburg.org version hard to read, a PDF is available via Sakai (under Resources).
+
+###January 29: 
+
+This week, we're going to switch gears a bit (temporarily) and talk about writing specifically. 
+
+###January 31:  
+
+For this class, read Straub's (1999) chapter [Responding - Really Responding - to Other Students' Writing](https://github.com/smartjw/collaborative_writing/blob/master/docs/straub_responding.pdf).   
 
 #Unit 2: Remix and repurpose
 
-* **February 5** Today we will be meeting in ZSR 624 (Special Collections classroom) to learn about the digital collections and archives at Wake Forest.  This will be integral to generate ideas for the second unit.  
+###February 5: 
+
+Today we will be meeting in ZSR 624 (Special Collections classroom) to learn about the digital collections and archives at Wake Forest.  This will be integral to generate ideas for the second unit.  
 

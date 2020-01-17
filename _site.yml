@@ -6,9 +6,9 @@ navbar:
   - text: "Home"
     icon: fa-home
     href: index.html
-  - text: "Information"
+  - text: "Schedule"
     icon: fa-compass
-    href: information.html
+    href: schedule.html
   - text: "Resources"
     icon: fa-toolbox
     href: resources.html

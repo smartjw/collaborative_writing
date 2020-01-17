@@ -1,0 +1,24 @@
+---
+title: "Course Schedule"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+*General course information and and policies have been moved [here]()*
+
+#Unit 1: Rephrase and respond			
+
+* **January 17:** Read Walter's (2013) essay [Sparks will fly](https://aeon.co/essays/consumer-culture-is-dead-long-live-creators) and identify what are the main issues he addresses in the text. How do these relate to the themes of this course? In class on Friday, we'll talk about these ideas and reflect on what creator culture might look like.  
+* **January 22:** Read the first chapter of Levy's book [Hackers: Heroes of the computer revolution](http://www.gutenberg.org/ebooks/729). We'll continue working on our summary and response work and discuss how writing groups work.
+* **January 24:** Read the second chapter of Levy's book [Hackers: Heroes of the computer revolution](http://www.gutenberg.org/ebooks/729). Today we'll work on defining the "hacker ethic" and exploring how this could apply to ideas like writing and research.Today we'll be talking about writing a summary of a text and responding it to it.  Specifically, you'll be asked to write a [summary and response](https://smartjw.github.io/collaborative_writing/summaryresponse.html) to the excerpt we read from Levy's book.  
+* **January 29:** This week, we're going to switch gears a bit (temporarily) and talk about writing specifically. 
+* **January 31**  For this class, read Straub's (1999) chapter [Responding - Really Responding - to Other Students' Writing](https://github.com/smartjw/collaborative_writing/blob/master/docs/straub_responding.pdf).   
+
+#Unit 2: Remix and repurpose
+
+* **February 5** Today we will be meeting in ZSR 624 (Special Collections classroom) to learn about the digital collections and archives at Wake Forest.  This will be integral to generate ideas for the second unit.  
+

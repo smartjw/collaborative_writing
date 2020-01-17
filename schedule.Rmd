@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-*General course information and and policies have been moved [here]()*
+*General course information and and policies have been moved [here](https://smartjw.github.io/collaborative_writing/information.html)*
 
 #Unit 1: Rephrase and respond			
 

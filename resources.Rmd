@@ -8,7 +8,12 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 #Assignments
 
-Major assignments (including prompts, due dates, and formatting guidelines) will be listed here for each unit.  
+Major assignments (including prompts, due dates, and formatting guidelines) will be listed here for each unit.
+
+##Project 1: Summary and Response
+
+Find project information and dates [here](https://smartjw.github.io/collaborative_writing/summaryresponse.html).  
+
 
 #Course Readings
 

@@ -10,6 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ##Course management and information
 * [Google Drive for write.hack](https://drive.google.com/)
 * [Sakai](https://sakai.wfu.edu/) (log in to access the WRI111 course shell)
+* [General course information and policies](https://smartjw.github.io/collaborative_writing/information.html)
 
 
 ##Digital Archives at WFU and beyond

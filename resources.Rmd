@@ -17,5 +17,5 @@ Find project information and dates [here](https://smartjw.github.io/collaborativ
 
 #Course Readings
 
-Current course readings can be found linke on the [information page](https://github.com/smartjw/collaborative_writing/blob/master/docs/information.html).  
+Current course readings can be found linked on the [information page](https://github.com/smartjw/collaborative_writing/blob/master/docs/information.html).  
 Archived readings or other readings mentioned in class will be linked to here.  

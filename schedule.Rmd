@@ -44,7 +44,42 @@ For this class, read Straub's (1999) chapter [Responding - Really Responding - t
 
 #Unit 2: Remix and repurpose
 
+For this unit, we'll be reading about remixing and repurposing (and some of the legal issues and cultural values related to these issues).  The writing project for this unit is to explore (and reflect on) the proces of repurposing language and media from our library archives to create something new using the WFU Wakerspace.  As part of the assignment, you will will create an object and write an extended reflection on the process and your goals.  
+
 ###February 5: 
 
-Today we will be meeting in ZSR 624 (Special Collections classroom) to learn about the digital collections and archives at Wake Forest.  This will be integral to generate ideas for the second unit.  
+Today we will be meeting in ZSR 624 (Special Collections classroom) to learn about the digital collections and archives at Wake Forest.  This will be integral to generate ideas for the second unit. 
+
+To prepare for this week's class, please read the following two excerpts from to Lawrence Lessig's (2008) book *[Remix](https://archive.org/details/LawrenceLessigRemix/mode/2up)* (PDF [Version](https://ia802306.us.archive.org/24/items/LawrenceLessigRemix/Remix-o.pdf)):
+
+* Introduction (pp. 1-19)
+* The first few sections of Chapter Four: RW, Revived (pp. 51-68)
+
+*Reading notes: If you are interested in the video Lessig mentions in the first chapter you can see it [here](https://youtu.be/N1KfJHFWlhQ).* 
+
+###February 7: 
+
+We will be discussing Lessig's ideas of read-only and read/write culture in class (with a focus on the latter).  We'll also be talking about how this connects to our next writing assignment.  
+
+###Feburary 12: 
+
+Today we will be meeting in the Wakerspace [on campus](https://map.concept3d.com/?id=492#!m/388915) during the regular class meeting time.  This will be an introduction to the space and will give you ideas for how you might approach your Remix/repurpose project. The [Wakerspace](https://wakerspace.wfu.edu/) is a variation on what are traditionally called [Makerspaces](https://en.wikipedia.org/wiki/Hackerspace) (or Hackerspaces) and has a wide-range of tools and hands-on resources for creation and design.  Before class, please watch Robin Hooker's (2018) [TED talk](https://youtu.be/9lSZgCaMS20) on "A makerspace for everyone"
+
+Notes: 
+
+* If you are interested in signing up for specific Wakerspace workshops, you can find them [here](https://pdc.wfu.edu/?q=wakerspace&opento&types).
+
+* You can find a playlist of Jonathan McIntosh's remix videos [here](https://www.youtube.com/playlist?list=PLBA459CB6C73D3B9A)
+
+###February 14: 
+
+
+On Friday, we will bring these ideas together (ZSR archives, Makerspace, and remix culture).  To prepare for this class discussion, please complete the following
+
+* Read the remainder of [Lessig's](https://archive.org/details/LawrenceLessigRemix/mode/2up) chapter 4 (pp. 68-83).  
+
+* Watch Cory Doctorow's Stanford [lecture](https://youtu.be/tveAm35gVF4) on Copyright and Remix Culture
+
+
+
 

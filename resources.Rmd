@@ -6,16 +6,19 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-#Assignments
+##Assignments
 
 Major assignments (including prompts, due dates, and formatting guidelines) will be listed here for each unit.
 
-##Project 1: Summary and Response
+###Project 1: Summary and Response
 
 Find project information and dates [here](https://smartjw.github.io/collaborative_writing/summaryresponse.html).  
 
 
-#Course Readings 
+##Course Readings 
 
-Current course readings can be found linked on the [information page](https://github.com/smartjw/collaborative_writing/blob/master/docs/information.html).  
-Archived readings or other readings mentioned in class will be linked to here.  
+**Current** course readings can be found linked on the [schedule](https://smartjw.github.io/collaborative_writing/schedule.html). **Archived** readings or other readings mentioned in class are listed below:  
+
+* Levy's (1984) Hackers: [Chapters 1 & 2](http://www.gutenberg.org/ebooks/729)
+* Straub (1999) "Responding, really responding to others' writing": [PDF](https://github.com/smartjw/collaborative_writing/blob/master/docs/straub_responding.pdf) 
+* Lessig's (2008) Remix: [book](https://archive.org/details/LawrenceLessigRemix/mode/2up)

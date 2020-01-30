@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-*General course information and and policies have been moved [here](https://smartjw.github.io/collaborative_writing/information.html)*
+*General course information and and policies can be found [here](https://smartjw.github.io/collaborative_writing/information.html)*
 
 #Unit 1: Rephrase and respond			
 
@@ -24,15 +24,15 @@ Read Lake's (2013) essay [Sparks will fly](https://aeon.co/essays/consumer-cultu
 
 ###January 22: 
 
-Read the first chapter of Levy's book [Hackers: Heroes of the computer revolution](http://www.gutenberg.org/ebooks/729). We'll continue working on our summary and response work and discuss how writing groups work. Slides [here](https://drive.google.com/open?id=1728CFUrKEXlV0FGvSld_j4fv_51_jn9E)
+Read the first chapter of Levy's (1984) book [Hackers: Heroes of the computer revolution](http://www.gutenberg.org/ebooks/729). We'll continue working on our summary and response work and discuss how writing groups work. Slides [here](https://drive.google.com/open?id=1728CFUrKEXlV0FGvSld_j4fv_51_jn9E)
 
 
 
-*Note: if you find the format of the Gutenburg.org version hard to read, a PDF is available via Sakai (under Resources).*
+*note: if you find the format of the Gutenburg.org version hard to read, a PDF is available via Sakai (under Resources).*
 
 ###January 24: 
 
-Read the second chapter of Levy's book [Hackers: Heroes of the computer revolution](http://www.gutenberg.org/ebooks/729). Today we'll work on defining the "hacker ethic" and exploring how this could apply to ideas like writing and research.Today we'll be talking about writing a summary of a text and responding it to it.  Specifically, you'll be asked to write a [summary and response](https://smartjw.github.io/collaborative_writing/summaryresponse.html) to the excerpt we read from Levy's book. Slides [here](https://drive.google.com/a/wfu.edu/file/d/1eNf2yF-WErumMiJv54hYizwefd1pkZX3/view?usp=sharing). 
+Read the second chapter of [Hackers](http://www.gutenberg.org/ebooks/729). Today we'll work on defining the "hacker ethic" and exploring how this could apply to ideas like writing and research.Today we'll be talking about writing a summary of a text and responding it to it.  Specifically, you'll be asked to write a [summary and response](https://smartjw.github.io/collaborative_writing/summaryresponse.html) to the excerpt we read from Levy's book. Slides [here](https://drive.google.com/a/wfu.edu/file/d/1eNf2yF-WErumMiJv54hYizwefd1pkZX3/view?usp=sharing). 
 
 ###January 29: 
 
@@ -55,7 +55,7 @@ To prepare for this week's class, please read the following two excerpts from to
 * Introduction (pp. 1-19)
 * The first few sections of Chapter Four: RW, Revived (pp. 51-68)
 
-*Reading notes: If you are interested in the video Lessig mentions in the first chapter you can see it [here](https://youtu.be/N1KfJHFWlhQ).* 
+*notes: If you are interested in the video Lessig mentions in the first chapter you can see it [here](https://youtu.be/N1KfJHFWlhQ).* 
 
 ###February 7: 
 
@@ -63,13 +63,11 @@ We will be discussing Lessig's ideas of read-only and read/write culture in clas
 
 ###Feburary 12: 
 
-Today we will be meeting in the Wakerspace [on campus](https://map.concept3d.com/?id=492#!m/388915) during the regular class meeting time.  This will be an introduction to the space and will give you ideas for how you might approach your Remix/repurpose project. The [Wakerspace](https://wakerspace.wfu.edu/) is a variation on what are traditionally called [Makerspaces](https://en.wikipedia.org/wiki/Hackerspace) (or Hackerspaces) and has a wide-range of tools and hands-on resources for creation and design.  Before class, please watch Robin Hooker's (2018) [TED talk](https://youtu.be/9lSZgCaMS20) on "A makerspace for everyone"
+Today we will be meeting in the Wakerspace [on campus](https://map.concept3d.com/?id=492#!m/388915) during the regular class meeting time.  This will be an introduction to the space and will give you ideas for how you might approach your remix/repurpose project. The [Wakerspace](https://wakerspace.wfu.edu/) is a variation on what are traditionally called [Makerspaces](https://en.wikipedia.org/wiki/Hackerspace) (or Hackerspaces) and has a wide-range of tools and hands-on resources for creation and design.  Before class, please watch Robin Hooker's (2018) [TED talk](https://youtu.be/9lSZgCaMS20) on "A makerspace for everyone"
 
-Notes: 
+*notes: If you are interested in signing up for specific Wakerspace workshops, you can find them [here](https://pdc.wfu.edu/?q=wakerspace&opento&types). You may also be interested in learning about the non-profit makerspace downtown, [Mixxer](https://wsmixxer.org/)*
 
-* If you are interested in signing up for specific Wakerspace workshops, you can find them [here](https://pdc.wfu.edu/?q=wakerspace&opento&types).
 
-* You can find a playlist of Jonathan McIntosh's remix videos [here](https://www.youtube.com/playlist?list=PLBA459CB6C73D3B9A)
 
 ###February 14: 
 
@@ -80,6 +78,7 @@ On Friday, we will bring these ideas together (ZSR archives, Makerspace, and rem
 
 * Watch Cory Doctorow's Stanford [lecture](https://youtu.be/tveAm35gVF4) on Copyright and Remix Culture
 
+*notes: You can find a playlist of Jonathan McIntosh's remix videos [here](https://www.youtube.com/playlist?list=PLBA459CB6C73D3B9A)*
 
 
 

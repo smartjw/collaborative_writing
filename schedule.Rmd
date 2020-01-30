@@ -40,7 +40,7 @@ This week, we're going to switch gears a bit (temporarily) and talk about writin
 
 ###January 31:  
 
-For this class, read Straub's (1999) chapter [Responding - Really Responding - to Other Students' Writing](https://github.com/smartjw/collaborative_writing/blob/master/docs/straub_responding.pdf).   
+For this class, read Straub's (1999) chapter [Responding - really responding - to other students' writing](https://github.com/smartjw/collaborative_writing/blob/master/docs/straub_responding.pdf).   
 
 #Unit 2: Remix and repurpose
 
@@ -50,7 +50,7 @@ For this unit, we'll be reading about remixing and repurposing (and some of the 
 
 Today we will be meeting in ZSR 624 (Special Collections classroom) to learn about the digital collections and archives at Wake Forest.  This will be integral to generate ideas for the second unit. 
 
-To prepare for this week's class, please read the following two excerpts from to Lawrence Lessig's (2008) book *[Remix](https://archive.org/details/LawrenceLessigRemix/mode/2up)* (PDF [Version](https://ia802306.us.archive.org/24/items/LawrenceLessigRemix/Remix-o.pdf)):
+To prepare for this week's class, please read the following two excerpts from to Lawrence Lessig's (2008) book *[Remix](https://archive.org/details/LawrenceLessigRemix/mode/2up)* (click here for the [PDF](https://ia802306.us.archive.org/24/items/LawrenceLessigRemix/Remix-o.pdf) Version):
 
 * Introduction (pp. 1-19)
 * The first few sections of Chapter Four: RW, Revived (pp. 51-68)
@@ -65,7 +65,7 @@ We will be discussing Lessig's ideas of read-only and read/write culture in clas
 
 Today we will be meeting in the Wakerspace [on campus](https://map.concept3d.com/?id=492#!m/388915) during the regular class meeting time.  This will be an introduction to the space and will give you ideas for how you might approach your remix/repurpose project. The [Wakerspace](https://wakerspace.wfu.edu/) is a variation on what are traditionally called [Makerspaces](https://en.wikipedia.org/wiki/Hackerspace) (or Hackerspaces) and has a wide-range of tools and hands-on resources for creation and design.  Before class, please watch Robin Hooker's (2018) [TED talk](https://youtu.be/9lSZgCaMS20) on "A makerspace for everyone"
 
-*notes: If you are interested in signing up for specific Wakerspace workshops, you can find them [here](https://pdc.wfu.edu/?q=wakerspace&opento&types). You may also be interested in learning about the non-profit makerspace downtown, [Mixxer](https://wsmixxer.org/)*
+*notes: If you are interested in signing up for specific Wakerspace workshops, you can find them [here](https://pdc.wfu.edu/?q=wakerspace&opento&types). You may also be interested in learning about the non-profit makerspace downtown, [Mixxer](https://wsmixxer.org/).*
 
 
 
@@ -78,7 +78,7 @@ On Friday, we will bring these ideas together (ZSR archives, Makerspace, and rem
 
 * Watch Cory Doctorow's Stanford [lecture](https://youtu.be/tveAm35gVF4) on Copyright and Remix Culture
 
-*notes: You can find a playlist of Jonathan McIntosh's remix videos [here](https://www.youtube.com/playlist?list=PLBA459CB6C73D3B9A)*
+*notes: You can find a playlist of Jonathan McIntosh's remix videos [here](https://www.youtube.com/playlist?list=PLBA459CB6C73D3B9A).*
 
 
 

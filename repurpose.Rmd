@@ -12,6 +12,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 For the second writing project of the course, you will create a physical object using resources available in the WFU Wakerspace (or comparable product).  This should be using a technique or method of making that you have *not* done before. The object should incorporate and repurpose language from the ZSR archives to express a new, contemporary idea or to comment on an old idea. 
 
+For example, you might find language in an archived edition of the Old Gold & Black or the Howler that reflects a controversial attitude.  You may repurpose the quote by juxtaposing it with a more modern idea or image in a laser etched wood block.  Or you may find a quote from a historical figure in the archives and repurpose the meaning of the quote and create buttons.  
+
 The *writing* component of the project consists of two tasks: a project report and a reflection.  
 
 ##Formatting

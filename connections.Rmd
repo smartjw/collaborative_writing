@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Photograph collection](https://wakespace.lib.wfu.edu/handle/10339/82145)
 * [WFU Original Campus Collection](https://wakespace.lib.wfu.edu/handle/10339/89141)
 * [The Internet Archive](https://archive.org/)
-
+ 
 ##ZSR Resources 
 * [Special Collections & Archives](https://zsr.wfu.edu/special/)
 * [Guide to writing a paper in APA](https://guides.zsr.wfu.edu/apaguide)

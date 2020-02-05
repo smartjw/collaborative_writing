@@ -9,7 +9,7 @@ navbar:
   - text: "Schedule"
     icon: fa-compass
     href: schedule.html
-  - text: "Resources"
+  - text: "Projects"
     icon: fa-toolbox
     href: resources.html
   - text: "Connections"

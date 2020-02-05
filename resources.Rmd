@@ -10,16 +10,63 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Major assignments (including prompts, due dates, and formatting guidelines) will be listed here for each unit.
 
-###Project 1: Summary and Response
+##Project 1: Summary and Response
 
 Find project information and dates [here](https://smartjw.github.io/collaborative_writing/summaryresponse.html).  
 
-###Project 2: Repurpose and remix
+###Overview of the project 
+
+For the first writing project of the course, you will write a brief (three pages or longer) essay that includes a summary and response to the **hacker ethic** proposed in Levy's (1984) book *Hackers: Heroes of the Computer Revolution*.  
+
+###Formatting
+
+The paper must adhere to APA style guidelines and should include in-text citations and references where appropriate (make sure to cite Levy in-text and include the text on your reference page).  Make sure to refer to the original author(s) and the title of the article in the beginning of your summary. 
+
+###Content and organization
+
+The first portion of your essay should be a summary that details the main ideas and key supporting details of the original text. 
+The second portion of the essay should be a personal response that reflects on the original text.  Your response should include a thesis statement that addresses one of three types of responses:
+
+1.	How your personal experience(s) relate to the original text.
+2.	How the ideas from the text can be applied to a comparable situation.
+3.	Whether you agree or disagree with the text and why.  
+
+###Steps to the project
+
+Share your draft with your writing group by Friday January 31st. You and your writing group will need to schedule a meeting with me to go over your drafts.  The final draft is due February 14th via Sakai.  
+
+##Project 2: Repurpose and remix
 Find project information and dates [here](https://smartjw.github.io/collaborative_writing/repurpose.html)
+
+###Overview of the project 
+
+For the second writing project of the course, you will create a physical object using resources available in the [WFU Wakerspace](https://wakerspace.wfu.edu/) (or comparable object).  This should be using a technique or method of making that you have *not* done before. The object should incorporate and repurpose language from the [ZSR special collections](https://zsr.wfu.edu/special/) or [digital archives](https://zsr.wfu.edu/special/collections/digital/) to express a new, contemporary idea or to comment on an old idea. 
+
+For example, you might find language in an archived edition of the Old Gold & Black or the Howler that reflects a controversial attitude.  You may repurpose the quote by juxtaposing it with a more modern idea or image in a laser etched wood block.  Or you may find a quote from a historical figure in the archives and repurpose the meaning of the quote and create buttons.  
+
+The *writing* component of the project consists of two tasks: a project report and a reflection.  
+
+###Formatting
+
+Both the project report and the reflection must adhere to APA style guidelines and should include in-text citations and references where appropriate (make sure to cite sources in-text and include the text on your reference page).  
+
+###Content and organization
+
+**The project report** is a two+ page technical document that illustrates the process of creating something from invention to final development.  The report should be organized following the process you used to invent, design, and produce the object.  In this report, discuss where you found the original archival message(s) and your rationale for choosing them. Describe the original source, as well as how it is stored (e.g., is it part of a larger collection?) and accessed (e.g., digital, print, in Special Collections). The report should also provide the reader with an overview of the process of designing and producing your final object. What steps did you follow? What information did you have to gather? 
+
+**The reflection essay** is a three+ page document that explores your rationale and experience in repurposing and/or remixing language and ideas from  archival resources and turning them into something new. In this task, reflect on how ideas of invention, iteration, read/write culture, and remixing play a role in creation and design. For this task, you should refer to course readings (or other, related readings) as part of the reflection.  
+
+###Steps to the project
+
+* The initial draft of your project report and reflective essay should be shared via Google Docs by February 28th. You and your writing group will need to schedule a meeting with me to go over your drafts. The final version of both writing tasks will be due on March 17th via Sakai.  
+
+* The final physical object should be completed by Friday, February 28th.  We will share them in class on March 4th.  
 
 ##Course Readings 
 
-**Current** course readings can be found linked on the [schedule](https://smartjw.github.io/collaborative_writing/schedule.html). **Archived** readings or other readings mentioned in class are listed below:  
+**Current** course readings can be found linked on the [schedule](https://smartjw.github.io/collaborative_writing/schedule.html).
+
+**Archived** readings or other readings mentioned in class are listed below:  
 
 * Levy's (1984) Hackers: [Chapters 1 & 2](http://www.gutenberg.org/ebooks/729)
 * Straub (1999) "Responding, really responding to students' writing": [PDF](https://github.com/smartjw/collaborative_writing/blob/master/docs/straub_responding.pdf) 

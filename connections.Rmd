@@ -24,6 +24,13 @@ knitr::opts_chunk$set(echo = TRUE)
 * [Special Collections & Archives](https://zsr.wfu.edu/special/)
 * [Guide to writing a paper in APA](https://guides.zsr.wfu.edu/apaguide)
 
+##Direct Links to resources mentioned in our ZSR visit 
+* UNC has a digitized version of Catesby's [Natural History of Carolina, Florida, and the Bahama Islands](https://cdn.lib.unc.edu/dc/catesby/).  There's also a version (in two volumes) at the [Library of Congress](https://www.loc.gov/item/agr02000176/).
+* WFU [Howler Yearkbooks](https://lib.digitalnc.org/search?p=Yearbooks+Wake+Forest+University&sf=year&so=a) and the [Old Gold & Black](http://wakespace.lib.wfu.edu/handle/10339/48)
+* To access digital versions of the *Nuremberg Chronicle*, see the links at the bottom of the [Wikipedia entry](https://en.wikipedia.org/wiki/Nuremberg_Chronicle). You can also go directly to the Cambridge University [digitized version](https://cudl.lib.cam.ac.uk/view/PR-INC-00000-A-00007-00002-00888))
+* [Finding aid](https://wakespace.lib.wfu.edu/handle/10339/28134) for the Maya Angelou Film and Theater Collection
+* [Finding aid](https://wakespace.lib.wfu.edu/handle/10339/27900) for WFU graduate and screenwriter Laurence Stallings.  His [IMDB page](https://www.imdb.com/name/nm0821716/?ref_=fn_al_nm_1) and his [Wikipedia entry](https://en.wikipedia.org/wiki/Laurence_Stallings)
+
 ##Maker spaces
 * [WakerSpace (on campus)](https://wakerspace.wfu.edu/)
 * [Mixxer (nonprofit downtown)](https://wsmixxer.org/)

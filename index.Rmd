@@ -10,7 +10,7 @@ In this writing course, we explore the writing process through cooperation, coll
  
 ###How to use this site:
 * The [schedule](https://smartjw.github.io/collaborative_writing/schedule.html) page gives a day-by-day list of the readings you should complete, the major assignments, and what we will be discussing in class meetings. This page is updated frequently. 
-* The [resources](https://smartjw.github.io/collaborative_writing/resources.html) page provides direct links to the writing prompts and previously assigned course readings.  
+* The [projects](https://smartjw.github.io/collaborative_writing/resources.html) page provides detailed instructions for each of the major writing assignments.  
 * The [connections](https://smartjw.github.io/collaborative_writing/connections.html) page links to other resources (e.g., library archives, makerspaces) that you will need to complete some of the major assignments.  
 * The [home](https://smartjw.github.io/collaborative_writing/index.html) page, once you've read it once, is pretty useless.  
 

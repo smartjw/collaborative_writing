@@ -10,6 +10,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 *General course information and and policies can be found [here](https://smartjw.github.io/collaborative_writing/information.html)*
 
+Presentation slide decks and other materials can be accessed [here](https://drive.google.com/drive/folders/151MO4X588GUHBqkvbS0s_QrZrseMGZqN)
+
 #Unit 1: Rephrase and respond			
 
 The writing project for this unit is Project 1: Summary & Response.  Read about the project [here](https://smartjw.github.io/collaborative_writing/summaryresponse.html).  
@@ -101,5 +103,26 @@ In this week's class, we're going to take a slight detour (content-wise) and rea
 For **Wednesday**, please read the short story [Affordances](https://slate.com/technology/2019/10/affordances-cory-doctorow-sf-story-algorithmic-bias-facial-recognition.html) by [Cory Doctorow](https://en.wikipedia.org/wiki/Cory_Doctorow). The story explores connections between the control of information, personal technology, and identity.  If you prefer to listen to the story, an mp3 version is available [here](https://archive.org/download/Cory_Doctorow_Podcast_314/Cory_Doctorow_Podcast_314_-Affordances.mp3) (right-click to download the audio).
 
 On **Friday**, we will read and discuss a [response](https://slate.com/technology/2019/10/cory-doctorow-affordances-response-ai.html) to the story by [Nettrice Gaskins](https://en.wikipedia.org/wiki/Nettrice_Gaskins).  
+
+###February 26
+
+This week, we're going to start a discussion on the intersection of writing and ideas we've been discussing so far (i.e., hacking and remixing).  To that end, we'll start by reading the first part of *They Say, I Say* (Graff & Birkenstein, 2018).  Please read the introduction and chapters one through three (i.e., pp. 1-52).  Also, make sure you are working on the drafts of your [project two](https://smartjw.github.io/collaborative_writing/resources.html#project_2:_repurpose_and_remix) essays, as the draft is due on February 28th. Also, make sure you and your writing group have signed up for a workshop time on my [appointment calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUc1WHljZHl2cHFRfGRlZmF1bHR8MDg4ZmI1NzkxZjMwNWUyYWMzMTI1MjgzMDlkNDBiYzk).  
+
+###February 28
+
+*Please add your draft of [project two](https://smartjw.github.io/collaborative_writing/resources.html#project_2:_repurpose_and_remix) to the appropriate folder on our shared Google drive.  Creating the draft as a Google Doc (instead of uploading a Word document) can help your writing group comment more easily on the document.*
+
+For today's class, please read through Part Two of *They Say, I Say* (pp. 53-100).  
+
+###March 4
+
+For today's class [Molly Keener](https://zsr.wfu.edu/directory/molly-keener/) will be coming to talk to our class about issues related to copyright, intellectual property, and other issues/questions you may have. Readings TBA.  
+
+###March 6
+
+This class meeting is our target date to share the object you have created. We will also be discussing Part Three of *They Say, I Say*.  
+
+
+
 
 

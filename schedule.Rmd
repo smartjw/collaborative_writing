@@ -133,11 +133,13 @@ We will be discussing Part Three of *They Say, I Say*. We will also be sharing o
 
 #Unit 3: Collaborate
 
-The writing project for this unit will be to create a collaborative wiki with your classmates.  You can read more about the Project #3 details [here](https://smartjw.github.io/collaborative_writing/resources.html)
+The writing project for this unit will be to create a collaborative wiki with your classmates.  You can read more about the Project #3 details [here](https://smartjw.github.io/collaborative_writing/resources.html).
 
 ###March 18
 
 For this class period, we will begin our discussion of our third writing project. As part of unit three, we're going to talk about how ideas of *remixing* and *hacking* are related to ideas inherent in academic writing (and how universities create knowledge). To prepare for class, please read (and take notes) on Harris' (2017) chapter "Remixing" from the book *Rewriting: How to do things with texts*.
+
+Note: You can read Lethem's (2007) [The Ecstasy of Influence](https://archive.harpers.org/2007/02/pdf/HarpersMagazine-2007-02-0081387.pdf?AWSAccessKeyId=AKIAUXG2GD7CYHBPPE7E&Expires=1583437546&Signature=ZNEVEZGG60LUHfGDZYUEL8woeFs%3D) here if interested.
 
 ###March 20
 
@@ -151,11 +153,7 @@ In today' class, librarian [Meghan Webb](https://zsr.wfu.edu/directory/meghan-we
 
 For today's class, please read Ingall's [Writing “Eyeball To Eyeball”: Building A Successful Collaboration](https://wac.colostate.edu/docs/books/writingspaces2/ingalls--writing-eyeball-to-eyeball.pdf).  
 
-Additionally, watch this video on how to use Google Sites (the platform for our wiki):
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hdGWJsY5idE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-*(the video is very slow but thorough)*
+###April 1
 
 
 

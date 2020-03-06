@@ -1,0 +1,31 @@
+---
+title: "Student Products"
+output: html_document
+---
+Here are the student works from Unit 2: 
+
+Hex's [podcast](https://github.com/smartjw/collaborative_writing/blob/master/docs/the_missing_bullet.mp3) on "The Missing Bullet"
+
+Andrew's painting:
+
+![Painting](https://github.com/smartjw/collaborative_writing/blob/master/docs/IMG_1023.JPG)
+
+Azaria's diagram:
+
+![Painting](https://github.com/smartjw/collaborative_writing/blob/master/docs/IMG_1024.JPG)
+
+Galen's painting: 
+
+![Painting](https://github.com/smartjw/collaborative_writing/blob/master/docs/IMG_1017.JPG)
+
+Kgosi's t-shirt:
+
+![Painting](https://github.com/smartjw/collaborative_writing/blob/master/docs/IMG_1021.JPG) 
+
+Isabelle's painting: 
+
+![Painting](https://github.com/smartjw/collaborative_writing/blob/master/docs/IMG_1018.JPG)
+
+Tom's brochure: 
+
+![Brochure](https://github.com/smartjw/collaborative_writing/blob/master/docs/wildlife_preservation.pdf)

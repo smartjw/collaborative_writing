@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Major assignments (including prompts, due dates, and formatting guidelines) will be listed here for each unit.
 
-##Project 1: Summary and Response
+##Project 1: Summary & Response
 
 ###Overview of the project 
 
@@ -32,7 +32,7 @@ The second portion of the essay should be a personal response that reflects on t
 
 Share your draft with your writing group by Friday January 31st. You and your writing group will need to schedule a meeting with me to go over your drafts.  The final draft is due February 14th via Sakai.  
 
-##Project 2: Repurpose and remix
+##Project 2: Repurpose
 
 ###Overview of the project 
 
@@ -63,4 +63,15 @@ Both the project report and the reflective essay must adhere to APA style guidel
 * The initial draft of your project report and reflective essay should be shared via Google Docs by February 28th. You and your writing group will need to schedule a meeting with me to go over your drafts. The final version of both writing tasks will be due on March 17th via Sakai.  
 
 * The final physical object should be completed by Friday, February 28th.  We will share them in class on March 4th.  
+
+Project 3: Collaborate
+
+###Overview of the project 
+
+###Formatting
+
+###Content and organization
+
+###Steps to the project
+
 

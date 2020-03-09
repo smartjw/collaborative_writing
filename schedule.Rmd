@@ -8,7 +8,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-*General course information and and policies can be found [here](https://smartjw.github.io/collaborative_writing/information.html)*
+General course information and and policies can be found [here](https://smartjw.github.io/collaborative_writing/information.html)
 
 Presentation slide decks and other materials can be accessed [here](https://drive.google.com/drive/folders/151MO4X588GUHBqkvbS0s_QrZrseMGZqN)
 
@@ -122,7 +122,7 @@ For today's class [Molly Keener](https://zsr.wfu.edu/directory/molly-keener/) wi
 
 Also, read this short excerpt from Doctorow's (2014) book [Information Doesn't Want to be Free: Laws for the Internet Age](https://github.com/smartjw/collaborative_writing/blob/master/docs/doctorow_excerpt_idwtbfree.pdf).
 
-Handouts from Molly Keener's class discussion are [here](https://github.com/smartjw/collaborative_writing/blob/master/docs/CC-License-Handout.pdf) and [here](https://github.com/smartjw/collaborative_writing/blob/master/docs/copyright_the_basics.pdf). The original general information flyer on Creative Commons is [available](https://wiki.creativecommons.org/images/6/62/Creativecommons-informational-flyer_eng.pdf) on the organization's [website].
+Handouts from Molly Keener's class discussion are [here](https://github.com/smartjw/collaborative_writing/blob/master/docs/CC-License-Handout.pdf) and [here](https://github.com/smartjw/collaborative_writing/blob/master/docs/copyright_the_basics.pdf). The original general information flyer on Creative Commons is available on the organization's [website](https://wiki.creativecommons.org/images/6/62/Creativecommons-informational-flyer_eng.pdf).
 
 
 ###March 6
@@ -132,16 +132,17 @@ We will be discussing Part Three of *They Say, I Say*. We will also be sharing o
 [Click here](https://smartjw.github.io/collaborative_writing/studentproducts.html) to explore the works from today's class. 
 
 
-
 #Unit 3: Collaborate
 
 The writing project for this unit will be to create a collaborative wiki with your classmates.  You can read more about the Project #3 details [here](https://smartjw.github.io/collaborative_writing/resources.html).
 
 ###March 18
 
-For this class period, we will begin our discussion of our third writing project. As part of unit three, we're going to talk about how ideas of *remixing* and *hacking* are related to ideas inherent in academic writing (and how universities create knowledge). To prepare for class, please read (and take notes) on Harris' (2017) chapter "Remixing" from the book *Rewriting: How to do things with texts*.
+For this class period, we will begin our discussion of our third writing project. For this unit we will read and discuss ideas related to collaboration in writing (and other types of collaboration). To move from Unit 2 to Unit 3, in today's class, we're talking about how ideas of remixing and hacking are related to collaboration in academic writing specifically. 
 
-Note: You can read Lethem's (2007) [The Ecstasy of Influence](https://archive.harpers.org/2007/02/pdf/HarpersMagazine-2007-02-0081387.pdf?AWSAccessKeyId=AKIAUXG2GD7CYHBPPE7E&Expires=1583437546&Signature=ZNEVEZGG60LUHfGDZYUEL8woeFs%3D) here if interested.
+Before class, please read (and take notes) on Harris' (2017) chapter [Remixing](https://github.com/smartjw/collaborative_writing/blob/master/docs/harris_remixing.pdf) from the book *Rewriting: How to do things with texts*.
+
+*note: You can read Lethem's (2007) [The Ecstasy of Influence](https://archive.harpers.org/2007/02/pdf/HarpersMagazine-2007-02-0081387.pdf?AWSAccessKeyId=AKIAUXG2GD7CYHBPPE7E&Expires=1583437546&Signature=ZNEVEZGG60LUHfGDZYUEL8woeFs%3D) here if interested.*
 
 ###March 20
 
@@ -157,6 +158,7 @@ For today's class, please read Ingall's [Writing “Eyeball To Eyeball”: Build
 
 ###April 1
 
+We're returning to Levy's *Hackers* to read about one of the most famous collaborations in hacking and repurposing; read chapter twelve [The Woz](https://github.com/smartjw/collaborative_writing/blob/master/docs/hackers_12_woz.pdf) before our class meeting.  
 
 
 

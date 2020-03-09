@@ -140,7 +140,7 @@ The writing project for this unit will be to create a collaborative wiki with yo
 
 For this class period, we will begin our discussion of our third writing project. For this unit we will read and discuss ideas related to collaboration in writing (and other types of collaboration). To move from Unit 2 to Unit 3, in today's class, we're talking about how ideas of remixing and hacking are related to collaboration in academic writing specifically. 
 
-Before class, please read (and take notes) on Harris' (2017) chapter [Remixing](https://github.com/smartjw/collaborative_writing/blob/master/docs/harris_remixing.pdf) from the book *Rewriting: How to do things with texts*.
+Before class, please read (and take notes) the chapter [Remixing](https://github.com/smartjw/collaborative_writing/blob/master/docs/harris_remixing.pdf) from the Harris' (2017) book *Rewriting: How to do things with texts*.
 
 *note: You can read Lethem's (2007) [The Ecstasy of Influence](https://archive.harpers.org/2007/02/pdf/HarpersMagazine-2007-02-0081387.pdf?AWSAccessKeyId=AKIAUXG2GD7CYHBPPE7E&Expires=1583437546&Signature=ZNEVEZGG60LUHfGDZYUEL8woeFs%3D) here if interested.*
 

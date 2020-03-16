@@ -78,10 +78,10 @@ If you would like to [make an appointment](https://calendar.google.com/calendar/
 
 For this writing project, you will write a guide that describes how to incorporate and make use of others’ texts in academic writing.  To that end, you will need to choose a specific topic from the list below.  
 
-1.	Synthesizing information effectively in academic writing
-2.	Synthesizing information in the humanities
-3.	Synthesizing information in the social sciences
-4.	Synthesizing information in STEM fields
+1.	Incorporating information effectively in academic writing
+2.	Citing and incorporating information in the humanities
+3.	Citing and incorporatinginformation in the social sciences
+4.	Citing and incorporatinginformation in STEM fields
 5.	Restating and remixing ideas in academic writing
 6.	Copyright issues and plagiarism in academic writing
 

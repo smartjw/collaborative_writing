@@ -6,7 +6,8 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+###<span style="color: blue;">The schedule is being regularly updated for online transition
+</span>
 
 General course information and and policies can be found [here](https://smartjw.github.io/collaborative_writing/information.html)
 
@@ -132,34 +133,40 @@ We will be discussing Part Three of *They Say, I Say*. We will also be sharing o
 [Click here](https://smartjw.github.io/collaborative_writing/studentproducts.html) to explore the works from today's class. 
 
 
-#Unit 3: Collaborate
+#Unit 3: Synthesis
 
-The writing project for this unit will be to create a collaborative wiki with your classmates.  You can read more about the Project #3 details [here](https://smartjw.github.io/collaborative_writing/resources.html).
+The writing project for this unit will be to syntheize information on how to incorporate and make use of others’ texts in academic writing.You can read more about the project on the [Projects](https://smartjw.github.io/collaborative_writing/resources.html) page.
 
-###March 18
+###March 18 & March 20
 
-For this class period, we will begin our discussion of our third writing project. For this unit we will read and discuss ideas related to collaboration in writing (and other types of collaboration). To move from Unit 2 to Unit 3, in today's class, we're talking about how ideas of remixing and hacking are related to collaboration in academic writing specifically. 
-
-Before class, please read (and take notes) the chapter [Remixing](https://github.com/smartjw/collaborative_writing/blob/master/docs/harris_remixing.pdf) from the Harris' (2017) book *Rewriting: How to do things with texts*.
-
-*note: You can read Lethem's (2007) [The Ecstasy of Influence](https://archive.harpers.org/2007/02/pdf/HarpersMagazine-2007-02-0081387.pdf?AWSAccessKeyId=AKIAUXG2GD7CYHBPPE7E&Expires=1583437546&Signature=ZNEVEZGG60LUHfGDZYUEL8woeFs%3D) here if interested.*
-
-###March 20
-
-Project 3 is a collaborative wiki that the class will construct together. Specifically, we are creating [a guide to citing](https://sites.google.com/a/wfu.edu/citing_sources_wiki/) (and making use of) others' texts and ideas in academic writing. You and a partner will be assigned a particular subpage to develop and edit.  To prepare for our initial discussion on this topic, please read Stedman's (2011) [Annoying Ways People Use Sources](http://writingspaces.org/sites/default/files/stedman--annoying-ways.pdf) from the open textbook *[Writing Spaces](http://writingspaces.org/)*.
+<span style="color: blue;">
+This week we will be observing an extended break in response to the COVID-19 outbreak.  All assigned readings and due dates have been postponed.  
+</span>
 
 ###March 25
 
-In today' class, librarian [Meghan Webb](https://zsr.wfu.edu/directory/meghan-webb/) will be showing us how to use Zotero for class collaboration. Before class, make sure you have installed Zotero and have it running on your computer.  Wake has a [guide](https://guides.zsr.wfu.edu/zotero/install) for installing Zotero. Also, make sure you have Microsoft Word with Zotero working. You can get Word as part of the MS Office 365 program through WFU's [software download page](https://software.wfu.edu/). Zotero also works in other word processing software (e.g., [Google Docs](https://www.zotero.org/support/google_docs), [Libre Office](https://www.zotero.org/support/libreoffice_writer_plugin_usage), but our workshop will prioritize MS Word. 
+On or before March 25th, please complete the following four tasks: 
+
+* Read Stedman's (2011) [Annoying Ways People Use Sources](http://writingspaces.org/sites/default/files/stedman--annoying-ways.pdf) from the open textbook *[Writing Spaces](http://writingspaces.org/)*.
+* Complete the one-question quiz on Stedman's article. 
+* Download and install Zotero. 
+* Complete the topic interest [survey](https://forms.gle/yJ411nRjoDo3Ht91A) for Project 3.
 
 ###March 27
 
-For today's class, please read Ingall's [Writing “Eyeball To Eyeball”: Building A Successful Collaboration](https://wac.colostate.edu/docs/books/writingspaces2/ingalls--writing-eyeball-to-eyeball.pdf).  
+<span style="color: blue;">Updated soon </span>
 
 ###April 1
 
-We're returning to Levy's *Hackers* to read about one of the most famous collaborations in hacking and repurposing; read chapter twelve [The Woz](https://github.com/smartjw/collaborative_writing/blob/master/docs/hackers_12_woz.pdf) before our class meeting.  
+<span style="color: blue;">Updated soon </span>
 
+###April 3
+
+<span style="color: blue;">Updated soon </span>
+
+###April 8
+
+<span style="color: blue;">Updated soon </span>
 
 
 

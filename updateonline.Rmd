@@ -1,0 +1,114 @@
+---
+title: "Updated Information for Remote Learning"
+output: html_document
+---
+
+Here are basic guidelines for moving our Writing 111 course online.  First, the week of March 16-20 is an extended break, so all due dates have been adjusted accordingly.  Likewise, in-person meetings for this week are canceled (individual meetings can be rescheduled in the future as video conferences as needed).  Detailed information about our move to online learning is broken down into a few categories: 
+
+1. Software
+2. Meetings and feedback
+3. Reading quizzes
+4. Major writing assignments
+  A. New dates for Project 2
+  B. Assignment description for Project 3
+5. Updated schedule
+
+Please note: If your personal circumstances mean that you will be unable to access the necessary technology or comply with the technical requirements, let me know!
+
+##Software
+
+There are three programs that will be necessary to ensure the class can collaborate during the rest of the term. They can all be found here: https://software.wfu.edu/audience/students/.  If you have trouble accessing or installing the programs, please contact the WFU help desk (https://help.wfu.edu/support/home); they are better at helping you set up these programs than your professors. 
+
+###VPN
+
+If you will be off-campus, download and install Wake Forest’s VPN.  The VPN will allow you to access ZSR databases and other campus online services as if you were on campus.  
+
+Special information if you are going to be in China or elsewhere where Google may be blocked:
+Please download and run the VPN before you leave (VPN download requires two-step verification, which depends on Google). Much of the WFU technology relies heavily on Google services (email, verification systems, online portals, software downloads) so it’s vitally important to have a functioning VPN if Google is blocked where you are.  
+
+###Zoom
+
+Based on responses from the survey I sent out on Friday, it sounds like Zoom is the program more folks are familiar with.  If you haven’t used it before, Zoom is a video chat program with features like screensharing and chat.  We’ll use it primarily for individual conferences and office hours. If you are in a place where you don’t have access to Zoom or can’t do videoconferencing for some other reason, let me know.  
+
+
+###Zotero
+
+As we move forward with the semester, it will be helpful to use Zotero to aid in gathering research articles and other sources and formatting papers.  Zotero is really useful for citing sources and creating reference pages.  We will be using Zotero for Writing Project 3 to share a group library of resources.  
+
+WFU has a really thorough guide to setting up and using Zotero here: https://guides.zsr.wfu.edu/zotero.    
+
+##Meetings and writing feedback
+
+I will be holding individual office hours online (through Zoom). You can also contact me via email or WeChat (smartjon).  To make an appointment, please use my appointment calendar (and indicate whether you would rather hold the meeting over Zoom or something else.  
+
+My appointment calendar is here: 
+https://calendar.google.com/calendar/selfsched?sstoken=UUc1WHljZHl2cHFRfGRlZmF1bHR8MDg4ZmI1NzkxZjMwNWUyYWMzMTI1MjgzMDlkNDBiYzk
+
+Writing groups will still be active, but only through Google Docs.  For each paper, you should upload the first draft to Google Docs.  Then comment on your group members’ papers.  When you have finished commenting on their papers, send them an email with a paragraph-length overview of your feedback (and make sure to copy me on the email).  Instead of group meetings, I’ll be holding individual meetings with each student via video conferencing.  My goal is to use Zoom for these meetings.  If there are technical hurdles, there are other options we can try (Zoom seems to be the most widespread system, based on the survey I sent out).  
+
+
+##Reading quizzes
+
+Since we will not be having regular in-class meetings to discuss the ideas in our course, you’ll be asked to complete brief (1-2 question) online quizzes to respond and reflect on materials from assigned readings.  These quizzes can be found on the Schedule Page of our class website (https://smartjw.github.io/collaborative_writing/schedule.html).  The quizzes are due in the evening on the day the reading is assigned (e.g., if you are assigned to read Text A on April 1st, the quiz will be open and available until midnight on April 1st.  If you are interested in having open discussions about the readings, we can do that via Zoom.  
+
+
+##Major writing assignments
+
+These steps to writing projects will stay largely the same.  The only major difference is a change in how we do feedback for your first draft.  Here’s the new procedure: 
+
+1.	Upload your draft via Google Docs (in the shared folder, under the appropriate sub-folder)
+2.	Read and comment on your writing groups’ papers.  Send them an email summarizing your advice. 
+3.	Schedule an individual video conference with me on my calendar (and indicate which app/format you prefer).  These will last about 20 minutes and will be held via Zoom.  
+4.	Make changes based on feedback from your peers and me. 
+5.	Submit your final version via Sakai.  
+
+Dates for the assignments have been changed to reflect the extra week of spring break. Here are the updated dates for the language history project (i.e., Project 2). Finally, we will not be giving presentations for these projects. 
+ 
+###Project 2: Repurposing
+
+If you would like to schedule an individual conference with me to discuss your paper, you may do so during the week of 3/23 through 3/27.  These appointments can be my on my calendar and will be held via Zoom.  
+
+The final draft of Project 2 (i.e., your report & reflection paper) is due by midnight on March 28th (Saturday).  Please submit your essay in APA format as a Word document via Sakai.  
+
+###Project 3: Guide to synthesizing information
+
+For this writing project, you will write a guide that describes how to incorporate and make use of others’ texts in academic writing.  To that end, you will need to choose a specific topic from the list below.  
+
+1.	Incorporating information effectively in academic writing
+2.	Citing and incorporating information in the humanities
+3.	Citing and incorporating information in the social sciences
+4.	Citing and incorporating information in STEM fields
+5.	Restating and remixing ideas in academic writing
+6.	Copyright issues and plagiarism in academic writing
+
+To choose your topic, please complete the following ranking survey by March 25.  Dr Smart will send you an email with your topic based on the survey results:
+
+https://forms.gle/yJ411nRjoDo3Ht91A
+
+Formatting: 
+
+This five+ page paper should be double-spaced and must adhere to APA style guidelines and should include in-text citations and references where appropriate. The paper should incorporate at least five sources of information; all sources should be either assigned course readings or peer-reviewed academic essays or academic books (at least one source should be one of the latter two). 
+Content and organization:
+
+Before beginning writing the paper, use ZSR’s online databases to research your topic. Make sure you upload at least two new sources (peer-reviewed research articles or academic e-books) to our shared Zotero library.
+The paper should be organized into two sections:
+•	A literature review (3 pages) summarizing and synthesizing the current research and/or best practices related to your topic.
+•	An instructional section (2 pages) that explains steps/techniques related to your topic and uses appropriate examples to illustrate those techniques. To create authentic examples, you may find a collection of essays like MiCUSP to be helpful.
+Steps in the assignment: 
+1.	March 25: Complete the topic survey
+2.	March 25: Install Zotero and join the class Zotero group.
+3.	April 1: Add two (or more) peer-reviewed articles/academic e-books to the Zotero group library.
+4.	April 10: Upload your draft to the appropriate subfolder on the shared Google Drive and make an individual appointment with me.
+5.	April 15: Comment on your writing group’s drafts and send them an email.
+6.	April 22: Submit your final draft via Sakai.
+
+##Updated schedule
+
+The day-to-day schedule is being updated regularly on the class website: https://smartjw.github.io/collaborative_writing/schedule.html
+
+
+
+
+
+
+	

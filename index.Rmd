@@ -8,6 +8,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ###<span style="color: blue;">March 16: Updated schedule and projects pages</span>
 
+<span style="color: blue;">For complete information on the updates, click [here](https://smartjw.github.io/collaborative_writing/updateonline.html)
+</span>
+
+
 In this writing course, we explore the writing process through cooperation, collaboration, remixing, and sharing of ideas.  We will also discuss and reflect on the ownership of ideas, the ethics of sharing, and the power structures that underlie our traditions and practices in writing. Readings for the course will include academic works on the writing process and revision.  Additionally, we will examine issues related to ownership, writing, and collaboration through reading texts by Cory Doctorow, Steven Levy, Lawrence Lessig, and others. Writing assignments will incorporate online and collaborative tasks, as well as individual writing projects. 
  
 ###How to use this site:

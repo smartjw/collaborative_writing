@@ -154,8 +154,6 @@ On or before March 25th, please complete the following four tasks:
 
 ###March 27
 
-<span style="color: blue;">Updated soon </span>
-
 Teaching and outreach librarian [Meghan Webb](https://zsr.wfu.edu/directory/meghan-webb/) will be showing us how to use Zotero for class collaboration (through an asynchronous tutorial on Voicethread). <span style="color: blue;">Information to access her Voicethread tutorial will be posted soon.</span> You will be able to consult with Professor Webb regarding using Zotero for citing sources (and other questions).  
 
 To prepare for this online workshop, make sure you have installed Zotero and have it running on your computer.  Wake has a [guide](https://guides.zsr.wfu.edu/zotero/install) for installing Zotero. Also, make sure you have Microsoft Word with Zotero working. You can get Word as part of the MS Office 365 program through WFU's [software download page](https://software.wfu.edu/). Zotero also works in other word processing software (e.g., [Google Docs](https://www.zotero.org/support/google_docs), [Libre Office](https://www.zotero.org/support/libreoffice_writer_plugin_usage), but our workshop will prioritize MS Word.

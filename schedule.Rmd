@@ -148,15 +148,25 @@ This week we will be observing an extended break in response to the COVID-19 out
 On or before March 25th, please complete the following four tasks: 
 
 * Read Stedman's (2011) [Annoying Ways People Use Sources](http://writingspaces.org/sites/default/files/stedman--annoying-ways.pdf) from the open textbook *[Writing Spaces](http://writingspaces.org/)*.
-* Complete the one-question quiz on Stedman's article. 
-* Download and install Zotero. 
+* Complete the [one-question quiz](https://forms.gle/U1mgMjC4q6DfytPB9) on Stedman's article by Friday. 
+* Download and install [Zotero](https://guides.zsr.wfu.edu/zotero/install). 
 * Complete the topic interest [survey](https://forms.gle/yJ411nRjoDo3Ht91A) for Project 3.
+
+###March 26
+
+Join the rest of the class for an **optional** open dicussion (via Zoom) at 10am. I'll host these every week. 
 
 ###March 27
 
-Teaching and outreach librarian [Meghan Webb](https://zsr.wfu.edu/directory/meghan-webb/) will be showing us how to use Zotero for class collaboration (through an asynchronous tutorial on Voicethread). <span style="color: blue;">Information to access her Voicethread tutorial will be posted soon.</span> You will be able to consult with Professor Webb regarding using Zotero for citing sources (and other questions).  
+*Make sure to complete the [quiz](https://forms.gle/U1mgMjC4q6DfytPB9) on Stedman if you haven't already.*
 
-To prepare for this online workshop, make sure you have installed Zotero and have it running on your computer.  Wake has a [guide](https://guides.zsr.wfu.edu/zotero/install) for installing Zotero. Also, make sure you have Microsoft Word with Zotero working. You can get Word as part of the MS Office 365 program through WFU's [software download page](https://software.wfu.edu/). Zotero also works in other word processing software (e.g., [Google Docs](https://www.zotero.org/support/google_docs), [Libre Office](https://www.zotero.org/support/libreoffice_writer_plugin_usage), but our workshop will prioritize MS Word.
+Teaching and outreach librarian [Meghan Webb](https://zsr.wfu.edu/directory/meghan-webb/) has created a Voicethread workshop on how to use Zotero for class collaboration.  You can access the Voicethread here (to comment on the thread, you'll need to be logged in via your WFU account at wfu.voicethread.com):   
+
+https://wfu.voicethread.com/myvoice/thread/13853566/
+
+While you watch, you can consult with Professor Webb regarding using Zotero for citing sources (and other questions) through Voicethread (use the comment function - Professor Web explains how in the Voicethread).  
+
+Wake has a [guide](https://guides.zsr.wfu.edu/zotero/install) for installing Zotero. Also, make sure you have Microsoft Word with Zotero working. You can get Word as part of the MS Office 365 program through WFU's [software download page](https://software.wfu.edu/). Zotero also works in other word processing software (e.g., [Google Docs](https://www.zotero.org/support/google_docs), [Libre Office](https://www.zotero.org/support/libreoffice_writer_plugin_usage)), but Professor Webb's workshop explains how to use Zotero with MS Word.
 
 * [Here's](https://guides.zsr.wfu.edu/zotero/self-guided) a self-guided tour for getting Zotero up and running. 
 * [Here's](https://guides.zsr.wfu.edu/zotero/groups) a guide to using Zotero's group libraries for collaboration. 

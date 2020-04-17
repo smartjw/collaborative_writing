@@ -117,6 +117,7 @@ The paper should be organized into two sections:
 ###Overview of the project 
 
 For the final writing project of the semester, complete a writing task based on "An original plagiarism" from the [Remix] chapter of Harris' (2017) book Rewriting. For the topic, write about something you've read or discussed or thought about in this course.  It could be any of the following: 
+
 * Read/Write Culture
 * Hacking
 * Self-expression/copyright

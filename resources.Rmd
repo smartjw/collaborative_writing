@@ -112,5 +112,30 @@ The paper should be organized into two sections:
 5. April 15: Comment on your writing group's drafts and send them an email.
 6. April 22: Submit your final draft via Sakai.  
 
+##Project 4: Original Plagiarism
+
+###Overview of the project 
+
+For the final writing project of the semester, complete a writing task based on "An original plagiarism" from the [Remix] chapter of Harris' (2017) book Rewriting. For the topic, write about something you've read or discussed or thought about in this course.  It could be any of the following: 
+* Read/Write Culture
+* Hacking
+* Self-expression/copyright
+* Remixing
+
+Or, you could write about a topic relevant to our bizarre experiences this semester (COVID-19, isolation, social distancing, remote learning, etc.). The primary constraints for the assignment is that it should remix, appropriate, or tweak language from several other texts.  
+
+###Content and organization
+
+This is a two-part task.  The first part is the "original plagiarism", which should be 400-500 words. This section should contain *mostly* language from other people that you are co-opting (i.e., stealing) as your own. Lethem's (2007) [The Ecstasy of Influence](https://archive.harpers.org/2007/02/pdf/HarpersMagazine-2007-02-0081387.pdf?AWSAccessKeyId=AKIAUXG2GD7CYHBPPE7E&Expires=1583437546&Signature=ZNEVEZGG60LUHfGDZYUEL8woeFs%3D) is an extended example of this type of writing.  In the document, be sure to include a "key" to indicate your sources (i.e., which sentences/phrases came from which source).  The key can be footnotes, color-coded fonts, or similar.  
+
+The second part of the essay is a brief reflection on your aims as a writer in composing this "plagiarized" essay. Refer to related readings (e.g., Harris, 2007; Lessig, 2008) as necessary. This should be approximately the same length as the first part.   
+
+###Steps to the project
+
+* Optional: Upload your first draft to Google Drive by April 29
+* Optional: Read and comment on your peers' drafts once they are uploaded.  
+* Submit the final draft via Sakai by May 6
+
+
 
 
